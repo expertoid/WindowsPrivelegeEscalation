@@ -1,0 +1,2 @@
+# WindowsPrivelegeEscalation
+PrivEsc
